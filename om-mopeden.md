@@ -2,6 +2,4 @@
 title: "Om mopeden"
 ---
 
-DBS Saxonette 3033
-
-
+Mopeden är en DBS Saxonette 3033.
