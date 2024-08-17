@@ -8,4 +8,4 @@ Delarna som satt i mopeden när vi fick den
 
 Tändstift: NGK B5HS  
 Topplock: 213 333 R3  
-Cylinder: TU 81(61?)
+Cylinder: TU M81(61?)
